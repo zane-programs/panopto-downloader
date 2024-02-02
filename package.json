@@ -1,0 +1,11 @@
+{
+  "name": "panopto-downloader",
+  "version": "1.0.0",
+  "description": "Download course videos from Panopto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zane St. John",
+  "license": "MIT"
+}
